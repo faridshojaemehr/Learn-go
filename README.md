@@ -7,23 +7,23 @@ Welcome! This repository documents my hands-on journey learning Go through pract
 ## Repository Structure
 
 ```
-├── basics/         # Go syntax, variables, types, functions
-├── control/        # Conditionals, loops, switch statements
-├── collections/    # Arrays, slices, maps
-├── structs/        # Structs, methods, interfaces
-├── concurrency/    # Goroutines, channels, sync
-├── projects/       # Mini-projects and exercises
+├── Function/         
+├── Conditonal/        
+├── Loops/          
+├── Strings/        
+├── Slices/    
+├── Maps/      
 └── README.md       # This file
 ```
 
 ## How to Explore
 
-- **basics/**: Foundational Go syntax, variables, and functions.
-- **control/**: Control flow with if, for, switch, and error handling.
-- **collections/**: Working with arrays, slices, and maps.
-- **structs/**: Structs, methods, and interfaces in action.
-- **concurrency/**: Goroutines, channels, and synchronization patterns.
-- **projects/**: Small, self-contained Go projects and exercises.
+- **Function/**: Foundational Go syntax, variables, and functions.
+- **Conditonal/**: Control flow with if, for, switch, and error handling.
+- **Loops/**: Working with arrays, slices, and maps.
+- **Strings/**: Structs, methods, and interfaces in action.
+- **Slices/**: Goroutines, channels, and synchronization patterns.
+- **Maps/**: Small, self-contained Go projects and exercises.
 
 ## Getting Started
 
@@ -31,7 +31,7 @@ Welcome! This repository documents my hands-on journey learning Go through pract
 2. Clone this repository.
 3. Run any example, for example:
     ```sh
-    go run basics/hello.go
+    go run Function/main.go
     ```
 
 ## Recommended Resources
